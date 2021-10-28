@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MytMnSthU/testimonials-grid)
-- Live Site URL: [Add live site URL here](https://mytmnsthu.github.io/testimonials-grid/)
+- Solution URL: [Solution](https://github.com/MytMnSthU/testimonials-grid)
+- Live Site URL: [Live Site](https://mytmnsthu.github.io/testimonials-grid/)
 
 ## My process
 
